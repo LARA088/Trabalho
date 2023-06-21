@@ -1,0 +1,7 @@
+:root{
+    --COR-DE-FUNDO: #EBECEE;
+}
+body{ 
+    background-color: var(--COR-DE-FUNDO);
+}
+    
