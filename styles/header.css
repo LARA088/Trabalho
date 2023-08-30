@@ -27,11 +27,11 @@ display: inline-block;
 }
 .lista-menu__titulo,.lista-menu__item{
     padding:1em;
-    background-color: #rosa;}
-.lista-menu__titulo{color: #preto;}
+    background-color:rgb(255, 104, 174);}
+.lista-menu__titulo{color:black;}
 
 .lista-menu__link{
-    color: #preto;
+    color:black;
     -webkit-background-clip:text;
     -webkit-text-fill-color: transparent;
     background-clip: text;

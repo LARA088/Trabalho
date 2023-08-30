@@ -6,3 +6,4 @@ body{
     background-color: var(--COR-DE-FUNDO);
 }
     
+@import url(styles/header.css);
