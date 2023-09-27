@@ -37,7 +37,7 @@ display:block;
 .lista-menu__link{
   color: black;
   -webkit-background-clip: text;
-  -webkit-text-fill-color:transparent;
+  -webkit-text-fill-color: black;
   background-clip: text;
   text-transform: uppercase;  }
 
