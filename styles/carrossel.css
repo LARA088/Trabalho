@@ -6,9 +6,19 @@
     font-weight: 700;
     padding: 1em;
 }
+.carrossel{
+    background-color: black                         ;  
+}
 .swiper-slide img{
+    padding: 3px;
+    text-align: center;
     width: 100%;
-    
-
 
 }
+.swiper-button-prev,.swiper-button-next{
+    display: none;
+}
+
+.swiper-pagination{
+    position: initial;
+    margin:0.5em 0}
